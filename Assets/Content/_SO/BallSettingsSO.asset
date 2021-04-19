@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7de2209b372b34d866494537c04531, type: 3}
+  m_Name: BallSettingsSO
+  m_EditorClassIdentifier: 
+  BallRigidbodyPrefab: {fileID: 5474413928292922818, guid: b6336cb8096fe15428b2869fd9f908c2,
+    type: 3}
+  physicalParameters:
+    movementSpeed: 5
+    attractionForce: 200
+    UpperDistanceBorder: 3
+    LowerDistanceBorder: 0.1
+    RaycastMask:
+      serializedVersion: 2
+      m_Bits: 273
+  positions:
+  - {x: -0.5, y: 0, z: -1.5}
+  - {x: -9.5, y: 0, z: -6.5}
+  - {x: 5.5, y: 0, z: -7.5}
+  - {x: -18.5, y: 0, z: 1.5}
+  - {x: -9.5, y: 0, z: 9.5}
+  - {x: -15.5, y: 0, z: -10.5}
