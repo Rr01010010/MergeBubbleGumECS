@@ -1,7 +1,7 @@
 # MergeBubbleGumECS
-[Ссылка на APK файл, можете сами пробовать выйиграть :)](https://drive.google.com/file/d/1rmbvoshi_5KENK4Tk1gBnJOhdojO_R92/view?usp=sharing)
+[Ссылка на APK файл, можете сами пробовать выиграть :)](https://drive.google.com/file/d/1rmbvoshi_5KENK4Tk1gBnJOhdojO_R92/view?usp=sharing)
 
-[Демонстрация игры с экрана компьютера (выигрываю быстро)](https://youtu.be/7c0NsepJK9c)
+[Демонстрация игры с экрана компьютера (выигрываю быстро)](https://youtu.be/PZMSUMi4eb0)
 
 [Демонстрация игры на телефоне (выигрываю долго, видно не очень зато понятна фишка с наклоном телефона)](https://youtu.be/7c0NsepJK9c)
 
